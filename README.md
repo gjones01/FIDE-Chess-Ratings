@@ -8,7 +8,7 @@ This project aims to analyzes FIDE chess ratings for the top ranked chess player
 - Insights into top-performing players and federations.
 
 ## Skills Demonstrated
-- Python (pandas, NumPy, seaborn, matplotlib)
+- Python (Pandas, NumPy, Seaborn, Matplotlib)
 - Data exploration and visualization
 
 ## How to Use
